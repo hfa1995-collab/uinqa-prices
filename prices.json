@@ -9,7 +9,7 @@
   },
   "pulse_tip": {
     "en": "Excellent window for premium sellers. Quality stock moving quickly.",
-    "ar": "نافذة ممتازة للبائعين المتميزين. الأسهم الجيدة تتحرك بسرعة شدخل؟."
+    "ar": "نافذة ممتازة للبائعين المتميزين. الأسهم الجيدة تتحرك بسرعة."
   },
   "falcons": {
     "shaheen": {
@@ -27,9 +27,9 @@
           "label_ar": "غير مدرب",
           "desc_en": "Wild-caught or young, no training",
           "desc_ar": "مصطاد أو صغير، بدون تدريب",
-          "price": 30000,
-          "price_en": "QAR 30,000",
-          "price_ar": "٣٠٬٠٠٠ ريال",
+          "price": 29999,
+          "price_en": "QAR 29,999",
+          "price_ar": "٢٩٬٩٩٩ ريال",
           "change_pct": 0,
           "trend": "updated"
         },
@@ -128,7 +128,7 @@
       "note_en": "Spring breeding season",
       "range_ar": "ر.ق 26,000-39,000",
       "note_ar": "Spring breeding season",
-      "last_manual_update": "2026-05-21T19:20:35.473078",
+      "last_manual_update": "2026-05-21T20:27:54.624833",
       "updated_by": "telegram_secretary",
       "_last_updated_grade_en": "Untrained",
       "_last_updated_grade_ar": "غير مدرب",
