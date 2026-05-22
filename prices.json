@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-21",
+  "updated": "2026-05-22",
   "updated_ar": "21 May 2026",
   "updated_time": "9:12 PM",
   "updated_source": "Souq Waqif + Al Shahaniya + LM Studio Analysis",
@@ -27,9 +27,9 @@
           "label_ar": "غير مدرب",
           "desc_en": "Wild-caught or young, no training",
           "desc_ar": "مصطاد أو صغير، بدون تدريب",
-          "price": 29999,
-          "price_en": "QAR 29,999",
-          "price_ar": "٢٩٬٩٩٩ ريال",
+          "price": 35000,
+          "price_en": "QAR 35,000",
+          "price_ar": "٣٥٬٠٠٠ ريال",
           "change_pct": 0,
           "trend": "updated"
         },
@@ -128,7 +128,7 @@
       "note_en": "Spring breeding season",
       "range_ar": "ر.ق 26,000-39,000",
       "note_ar": "Spring breeding season",
-      "last_manual_update": "2026-05-21T20:27:54.624833",
+      "last_manual_update": "2026-05-22T12:57:56.561010",
       "updated_by": "telegram_secretary",
       "_last_updated_grade_en": "Untrained",
       "_last_updated_grade_ar": "غير مدرب",
