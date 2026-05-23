@@ -125,9 +125,9 @@
       "min": 40417,
       "max": 64483,
       "range_en": "QAR 26,000-39,000",
-      "note_en": "Spring breeding season",
+      "note_en": "موسم التكاثر الربيعي",
       "range_ar": "ر.ق 26,000-39,000",
-      "note_ar": "Spring breeding season",
+      "note_ar": "موسم التكاثر الربيعي",
       "last_manual_update": "2026-05-21T20:27:54.624833",
       "updated_by": "telegram_secretary",
       "_last_updated_grade_en": "Untrained",
@@ -252,9 +252,9 @@
       "min": 55412,
       "max": 85471,
       "range_en": "QAR 48,000-68,000",
-      "note_en": "Stable market",
+      "note_en": "سوق مستقر",
       "range_ar": "ر.ق 48,000-68,000",
-      "note_ar": "Stable market",
+      "note_ar": "سوق مستقر",
       "range_low_en": "QAR 48,000",
       "range_high_en": "QAR 68,000",
       "trend": "same",
@@ -274,7 +274,7 @@
       "grades": [
         {
           "label_en": "Pure Gyr",
-          "label_ar": "جير بيور (Pure)",
+          "label_ar": "جير بيور (نقي)",
           "desc_en": "100% pure, immense size and power",
           "desc_ar": "صقر جير نقي 100%، يتميز بحجمه الكبير جداً وقوته الهائلة",
           "price": 500000,
@@ -284,9 +284,9 @@
           "trend": "same"
         },
         {
-          "label_en": "Gyr-Saker Hybrid",
+          "label_en": "Gyr- Hybrid",
           "label_ar": "جير حر",
-          "desc_en": "Combines Saker beauty with Gyr strength",
+          "desc_en": "Combines  beauty with Gyr strength",
           "desc_ar": "يجمع بين قوة وحجم الجير وجمال ووسامة الصقر الحر",
           "price": 350000,
           "price_en": "QAR 350,000",
@@ -295,9 +295,9 @@
           "trend": "same"
         },
         {
-          "label_en": "Gyr-Shaheen Hybrid",
+          "label_en": "Gyr- Hybrid",
           "label_ar": "جير شاهين",
-          "desc_en": "Combines Shaheen speed with Gyr power",
+          "desc_en": "Combines  speed with Gyr power",
           "desc_ar": "يجمع بين قوة الجير وسرعة وانقضاض صقر الشاهين",
           "price": 450000,
           "price_en": "QAR 450,000",
@@ -368,7 +368,7 @@
       "subtitle_ar": "إبل السباق",
       "insight_en": "A proven racing Majaheem with documented wins can sell for 10x the price of an unproven animal — always verify race records before purchase.",
       "insight_ar": "المجاهيم ذات سجلات السباق المثبتة تُباع بعشرة أضعاف سعر الحيوان غير المثبت — تحقق دائماً من سجلات السباق قبل الشراء.",
-      "season_en": "Racing season active in Qatar. Pre-season demand pushing prices upward especially for young Majaheem with strong bloodlines.",
+      "season_en": "موسم السباقات active in Qatar. Pre-season demand pushing prices upward especially for young Majaheem with strong bloodlines.",
       "season_ar": "موسم السباقات نشط في قطر. الطلب قبل الموسم يدفع الأسعار للأعلى خاصة للمجاهيم الصغيرة.",
       "grades": [
         {
@@ -474,9 +474,9 @@
       "min": 97543,
       "max": 126429,
       "range_en": "QAR 125,000-185,000",
-      "note_en": "Racing season",
+      "note_en": "موسم السباقات",
       "range_ar": "ر.ق 125,000-185,000",
-      "note_ar": "Racing season",
+      "note_ar": "موسم السباقات",
       "range_low_en": "QAR 125,000",
       "range_high_en": "QAR 185,000",
       "trend": "up",
@@ -489,9 +489,9 @@
       "name_ar": "العمانية",
       "subtitle_en": "Omaniya Camel",
       "subtitle_ar": "الإبل العمانية",
-      "insight_en": "A proven racing Majaheem with documented wins can sell for 10x the price of an unproven animal — always verify race records before purchase.",
+      "insight_en": "A proven racing  with documented wins can sell for 10x the price of an unproven animal — always verify race records before purchase.",
       "insight_ar": "المجاهيم ذات سجلات السباق المثبتة تُباع بعشرة أضعاف سعر الحيوان غير المثبت — تحقق دائماً من سجلات السباق قبل الشراء.",
-      "season_en": "Racing season active in Qatar. Pre-season demand pushing prices upward especially for young Majaheem with strong bloodlines.",
+      "season_en": "موسم السباقات active in Qatar. Pre-season demand pushing prices upward especially for young  with strong bloodlines.",
       "season_ar": "موسم السباقات نشط في قطر. الطلب قبل الموسم يدفع الأسعار للأعلى خاصة للمجاهيم الصغيرة.",
       "grades": [
         {
@@ -597,9 +597,9 @@
       "min": 59330,
       "max": 72349,
       "range_en": "QAR 88,000-135,000",
-      "note_en": "Quality bloodlines",
+      "note_en": "سلالات عالية الجودة",
       "range_ar": "ر.ق 88,000-135,000",
-      "note_ar": "Quality bloodlines",
+      "note_ar": "سلالات عالية الجودة",
       "range_low_en": "QAR 88,000",
       "range_high_en": "QAR 135,000",
       "trend": "same",
@@ -612,9 +612,9 @@
       "name_ar": "الأصايل",
       "subtitle_en": "Beauty Pageant Camels",
       "subtitle_ar": "إبل مسابقات الجمال",
-      "insight_en": "A proven racing Majaheem with documented wins can sell for 10x the price of an unproven animal — always verify race records before purchase.",
+      "insight_en": "A proven racing  with documented wins can sell for 10x the price of an unproven animal — always verify race records before purchase.",
       "insight_ar": "المجاهيم ذات سجلات السباق المثبتة تُباع بعشرة أضعاف سعر الحيوان غير المثبت — تحقق دائماً من سجلات السباق قبل الشراء.",
-      "season_en": "Racing season active in Qatar. Pre-season demand pushing prices upward especially for young Majaheem with strong bloodlines.",
+      "season_en": "موسم السباقات active in Qatar. Pre-season demand pushing prices upward especially for young  with strong bloodlines.",
       "season_ar": "موسم السباقات نشط في قطر. الطلب قبل الموسم يدفع الأسعار للأعلى خاصة للمجاهيم الصغيرة.",
       "grades": [
         {
@@ -719,9 +719,9 @@
       },
       "min": 37142,
       "max": 212241,
-      "range_en": "QAR 30,000 – 200,000",
+      "range_en": "٣٠٬٠٠٠ - ٢٠٠٬٠٠٠ ريال",
       "note_en": "Beauty pageant camels seeing growing interest and rising prices",
-      "range_ar": "QAR 30,000 – 200,000",
+      "range_ar": "٣٠٬٠٠٠ - ٢٠٠٬٠٠٠ ريال",
       "note_ar": "إبل مسابقات الجمال تشهد اهتماماً متزايداً وارتفاعاً في الأسعار"
     }
   },
@@ -731,9 +731,9 @@
       "name_ar": "الخيل العربي",
       "subtitle_en": "Arabian Horse",
       "subtitle_ar": "الحصان العربي الأصيل",
-      "insight_en": "Registered purebred Arabians with documented bloodlines from famous sires command the highest premiums. Always verify WAHO registration.",
-      "insight_ar": "الخيل العربي الأصيل المسجل من آباء مشهورة يحقق أعلى الأسعار. تحقق دائماً من تسجيل WAHO.",
-      "season_en": "Racing season Oct–Mar at Qatar Racing Club drives peak demand.",
+      "insight_en": "Registered purebred Arabians with documented bloodlines from famous sires command the highest premiums. Always verify المنظمة العالمية للخيول العربية registration.",
+      "insight_ar": "الخيل العربي الأصيل المسجل من آباء مشهورة يحقق أعلى الأسعار. تحقق دائماً من تسجيل المنظمة العالمية للخيول العربية.",
+      "season_en": "موسم السباقات Oct–Mar at Qatar Racing Club drives peak demand.",
       "season_ar": "موسم السباقات أكتوبر–مارس في نادي قطر للفروسية يدفع الطلب للذروة.",
       "grades": [
         {
@@ -750,8 +750,8 @@
         {
           "label_en": "Registered Purebred",
           "label_ar": "أصيل مسجل",
-          "desc_en": "WAHO registered, documented pedigree",
-          "desc_ar": "مسجل في WAHO، نسب موثق",
+          "desc_en": "المنظمة العالمية للخيول العربية registered, documented pedigree",
+          "desc_ar": "مسجل في المنظمة العالمية للخيول العربية، نسب موثق",
           "price": 127342,
           "price_en": "QAR 120,000",
           "price_ar": "١٢٠٬٠٠٠ ريال",
@@ -846,7 +846,7 @@
       "subtitle_ar": "خيل السباق الإنجليزي",
       "insight_en": "Thoroughbred prices in Qatar are heavily influenced by international racing records. Import costs add QAR 15,000–30,000 to the purchase price.",
       "insight_ar": "أسعار الخيل الإنجليزي في قطر تتأثر بالسجلات الدولية. تكاليف الاستيراد تضيف ١٥٬٠٠٠–٣٠٬٠٠٠ ريال.",
-      "season_en": "Racing season Oct–Mar sees highest demand and prices.",
+      "season_en": "موسم السباقات Oct–Mar sees highest demand and prices.",
       "season_ar": "موسم السباقات أكتوبر–مارس يشهد أعلى طلب وأسعار.",
       "grades": [
         {
@@ -904,7 +904,7 @@
         },
         {
           "name_en": "Import — UK / Ireland",
-          "name_ar": "استيراد من UK / إيرلندا",
+          "name_ar": "استيراد من بريطانيا / أيرلندا",
           "price_en": "QAR 85,000 – 1,000,000",
           "price_ar": "٨٥٬٠٠٠ – ١٬٠٠٠٬٠٠٠ ريال",
           "badge": "mid"
