@@ -141,7 +141,8 @@
     },
       "saker": {
       "name_en": "Cherrug (Al-Hurr)",
-      "name_ar": "الحر (الشرق)",
+            "name_ar": "الحر",
+      "subtitle_ar": "صقر الحر",
       "subtitle_en": "Cherrug / Al-Hurr Falcon",
       "subtitle_ar": "صقر الحر / الشرق",
       "insight_en": "Training quality and provenance are the primary price drivers — a trained Shaheen can command 5x the price of an untrained bird of identical species.",
