@@ -1,16 +1,8 @@
 {
-  "updated": "2026-05-22",
-  "updated_ar": "22 May 2026",
-  "updated_time": "6:42 PM",
+  "updated": "2026-05-23",
+  "updated_ar": "23 مايو 2026",
+  "updated_time": "02:30 PM",
   "updated_source": "Souq Waqif + Al Shahaniya + LM Studio Analysis",
-  "pulse": {
-    "en": "Qatar traditional markets show strong spring and racing season momentum.",
-    "ar": "أسواق قطر التقليدية تظهر زخم ربيعي قوي وموسم سباق."
-  },
-  "pulse_tip": {
-    "en": "Excellent window for premium sellers. Quality stock moving quickly.",
-    "ar": "نافذة ممتازة للبائعين المتميزين. الأسهم الجيدة تتحرك بسرعة."
-  },
   "falcons": {
     "shaheen": {
       "name_en": "Shaheen",
@@ -1091,5 +1083,13 @@
       "min": 258295,
       "max": 393755
     }
+  },
+  "pulse_en": {
+    "pulse": "Qatar traditional markets show strong spring and racing season momentum.",
+    "recommendation": "Excellent window for premium sellers. Quality stock moving quickly."
+  },
+  "pulse_ar": {
+    "pulse": "أسواق قطر التقليدية تظهر زخم ربيعي قوي وموسم سباق.",
+    "recommendation": "نافذة ممتازة للبائعين المتميزين. الأسهم الجيدة تتحرك بسرعة."
   }
 }
