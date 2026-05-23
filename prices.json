@@ -4,12 +4,12 @@
   "updated_time": "02:30 PM",
   "updated_source": "Souq Waqif + Al Shahaniya + LM Studio Analysis",
   "pulse_en": {
-    "pulse": "The Qatar animal markets are witnessing a surge in prestige specimens, as elite Gyrfalcon lineages and Majaheem racing champions command intense interest.",
+    "pulse": "The Qatar animal markets are witnessing a surge in prestigious specimens, as elite Gyrfalcon lineages and Majaheem racing champions command intense interest.",
     "recommendation": "Prioritize acquiring Shaheen hunters with proven pedigrees before seasonal demand drives prices to new peaks."
   },
   "pulse_ar": {
-    "pulse": "سوق الصقور والإبل في قطر مولع، والعيون كلها على سلالات الحر النادرة وأبطال المجاهيم مع بداية الموسم.",
-    "recommendation": "الحق على الشواهين اللي لها صيد وسجل، لأن الطلب عليها بيزيد والسعر بيطير."
+    "pulse": "سوق الصقور والإبل في قطر يشهد إقبالاً كبيراً على النوادر، حيث تثير سلالات الجير النادرة وأبطال المجاهيم اهتمام كبار المقتنين.",
+    "recommendation": "اغتنم الفرصة للاستثمار في الشواهين ذات السجلات القوية قبل أن يرتفع الطلب مع بداية الموسم."
   },
   "falcons": {
     "shaheen": {
@@ -139,11 +139,11 @@
       "range_low_ar": "ر.ق 26,000",
       "range_high_ar": "ر.ق 39,000"
     },
-    "saker": {
-      "name_en": "Saker",
-      "name_ar": "الجبلي",
-      "subtitle_en": "Saker Falcon — الجبلي / السيكر",
-      "subtitle_ar": "صقر الجبلي",
+      "saker": {
+      "name_en": "Cherrug (Al-Hurr)",
+      "name_ar": "الحر (الشرق)",
+      "subtitle_en": "Cherrug / Al-Hurr Falcon",
+      "subtitle_ar": "صقر الحر / الشرق",
       "insight_en": "Training quality and provenance are the primary price drivers — a trained Shaheen can command 5x the price of an untrained bird of identical species.",
       "insight_ar": "جودة التدريب والأصل هما العاملان الرئيسيان — يمكن أن يُباع الشاهين المدرب بخمسة أضعاف سعر الطير غير المدرب من نفس النوع.",
       "season_en": "Season winding down from Oct–Mar peak. Captive-bred stock available year-round at stable prices.",
