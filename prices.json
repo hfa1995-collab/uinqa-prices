@@ -1,1069 +1,185 @@
 {
-  "updated": "2026-05-23",
-  "updated_ar": "23 مايو 2026",
-  "updated_time": "02:30 PM",
-  "updated_source": "Souq Waqif + Al Shahaniya + LM Studio Analysis",
+  "timestamp": "2026-05-25T13:24:36.906330",
+  "date": "2026-05-25",
+  "version": "2.0",
+  "agent_info": {
+    "agent_name": "Learning Agent v2.0",
+    "model": "Qwen3.6-27B-Q8_0",
+    "lm_studio_ok": true,
+    "searxng_ok": true,
+    "db_path": "C:\\UINQA\\learning_agents.db"
+  },
+  "web_search_results": 4,
+  "falcons_en": {
+    "category": "falcons",
+    "language": "en",
+    "prices": [
+      {
+        "species_key": "shaheen",
+        "age_stage": "",
+        "origin": "",
+        "training_grade": "untrained",
+        "price_base": 15000,
+        "modifiers": {},
+        "price_final": 15000,
+        "trend": "same",
+        "change_pct": 0.0,
+        "note": "No LLM response — using baseline price."
+      },
+      {
+        "species_key": "shaheen",
+        "age_stage": "",
+        "origin": "",
+        "training_grade": "manning",
+        "price_base": 25000,
+        "modifiers": {},
+        "price_final": 25000,
+        "trend": "same",
+        "change_pct": 0.0,
+        "note": "No LLM response — using baseline price."
+      },
+      {
+        "species_key": "shaheen",
+        "age_stage": "",
+        "origin": "",
+        "training_grade": "trained",
+        "price_base": 32500,
+        "modifiers": {},
+        "price_final": 32500,
+        "trend": "same",
+        "change_pct": 0.0,
+        "note": "No LLM response — using baseline price."
+      },
+      {
+        "species_key": "shaheen",
+        "age_stage": "",
+        "origin": "",
+        "training_grade": "hunt_proven",
+        "price_base": 65000,
+        "modifiers": {},
+        "price_final": 65000,
+        "trend": "same",
+        "change_pct": 0.0,
+        "note": "No LLM response — using baseline price."
+      },
+      {
+        "species_key": "saker",
+        "age_stage": "",
+        "origin": "",
+        "training_grade": "untrained",
+        "price_base": 25000,
+        "modifiers": {},
+        "price_final": 25000,
+        "trend": "same",
+        "change_pct": 0.0,
+        "note": "No LLM response — using baseline price."
+      },
+      {
+        "species_key": "saker",
+        "age_stage": "",
+        "origin": "",
+        "training_grade": "manning",
+        "price_base": 45000,
+        "modifiers": {},
+        "price_final": 45000,
+        "trend": "same",
+        "change_pct": 0.0,
+        "note": "No LLM response — using baseline price."
+      },
+      {
+        "species_key": "saker",
+        "age_stage": "",
+        "origin": "",
+        "training_grade": "trained",
+        "price_base": 70000,
+        "modifiers": {},
+        "price_final": 70000,
+        "trend": "same",
+        "change_pct": 0.0,
+        "note": "No LLM response — using baseline price."
+      },
+      {
+        "species_key": "saker",
+        "age_stage": "",
+        "origin": "",
+        "training_grade": "hunt_proven",
+        "price_base": 110000,
+        "modifiers": {},
+        "price_final": 110000,
+        "trend": "same",
+        "change_pct": 0.0,
+        "note": "No LLM response — using baseline price."
+      },
+      {
+        "species_key": "gyrfalcon",
+        "age_stage": "",
+        "origin": "",
+        "training_grade": "untrained",
+        "price_base": 60000,
+        "modifiers": {},
+        "price_final": 60000,
+        "trend": "same",
+        "change_pct": 0.0,
+        "note": "No LLM response — using baseline price."
+      },
+      {
+        "species_key": "gyrfalcon",
+        "age_stage": "",
+        "origin": "",
+        "training_grade": "manning",
+        "price_base": 90000,
+        "modifiers": {},
+        "price_final": 90000,
+        "trend": "same",
+        "change_pct": 0.0,
+        "note": "No LLM response — using baseline price."
+      },
+      {
+        "species_key": "gyrfalcon",
+        "age_stage": "",
+        "origin": "",
+        "training_grade": "trained",
+        "price_base": 130000,
+        "modifiers": {},
+        "price_final": 130000,
+        "trend": "same",
+        "change_pct": 0.0,
+        "note": "No LLM response — using baseline price."
+      },
+      {
+        "species_key": "gyrfalcon",
+        "age_stage": "",
+        "origin": "",
+        "training_grade": "hunt_proven",
+        "price_base": 200000,
+        "modifiers": {},
+        "price_final": 200000,
+        "trend": "same",
+        "change_pct": 0.0,
+        "note": "No LLM response — using baseline price."
+      }
+    ],
+    "key_insight": "Qatar falcon market stable — monitoring continues.",
+    "season_note": "May 2026 — post-hunting season, breeding activity.",
+    "recommendation": "Monitor trained and hunt-proven grades for price movement.",
+    "market_mood": "neutral",
+    "confidence": 0.7,
+    "data_sources": [
+      "learning_agents.db",
+      "SearXNG web search",
+      "Qwen3.6 LLM analysis"
+    ]
+  },
   "pulse_en": {
-    "pulse": "The Qatar animal markets are witnessing a surge in prestigious specimens, as elite Gyrfalcon lineages and Majaheem racing champions command intense interest.",
-    "recommendation": "Prioritize acquiring Shaheen hunters with proven pedigrees before seasonal demand drives prices to new peaks."
-  },
-  "pulse_ar": {
-    "pulse": "سوق الصقور والإبل في قطر يشهد إقبالاً كبيراً على النوادر، حيث تثير سلالات الجير النادرة وأبطال المجاهيم اهتمام كبار المقتنين.",
-    "recommendation": "اغتنم الفرصة للاستثمار في الشواهين ذات السجلات القوية قبل أن يرتفع الطلب مع بداية الموسم."
-  },
-  "falcons": {
-    "shaheen": {
-      "name_en": "Shaheen",
-      "name_ar": "الشاهين",
-      "subtitle_en": "Peregrine Falcon",
-      "subtitle_ar": "صقر الشاهين",
-      "insight_en": "Renowned for unmatched aerial agility and hunting speed; demand peaks during the winter season.",
-      "insight_ar": "يتميز بالرشاقة الفائقة وسرعة الانقضاض؛ ويصل الطلب على ذروته خلال موسم الصيد الشتوي.",
-      "season_en": "Season winding down from Oct–Mar peak. Captive-bred stock available year-round at stable prices.",
-      "season_ar": "الموسم في تراجع عن ذروته (أكتوبر–مارس). الطيور المربّاة متاحة على مدار العام بأسعار مستقرة.",
-      "grades": [
-        {
-          "label_en": "Untrained",
-          "label_ar": "غير مدرب",
-          "desc_en": "Wild-caught or young, no training",
-          "desc_ar": "مصطاد أو صغير، بدون تدريب",
-          "price": 41168,
-          "price_en": "QAR 29,999",
-          "price_ar": "٢٩٬٩٩٩ ريال",
-          "change_pct": 0,
-          "trend": "updated"
-        },
-        {
-          "label_en": "Manning Stage",
-          "label_ar": "مرحلة التأنيس",
-          "desc_en": "Tame, responding to falconer",
-          "desc_ar": "مألوف، يستجيب للصقار",
-          "price": 61760,
-          "price_en": "QAR 45,000",
-          "price_ar": "٤٥٬٠٠٠ ريال",
-          "change_pct": 0,
-          "trend": "same"
-        },
-        {
-          "label_en": "Fully Trained",
-          "label_ar": "مدرب بالكامل",
-          "desc_en": "Returns reliably, hunts on command",
-          "desc_ar": "يعود بموثوقية، يصطاد بالأمر",
-          "price": 116665,
-          "price_en": "QAR 85,000",
-          "price_ar": "٨٥٬٠٠٠ ريال",
-          "change_pct": 5.2,
-          "trend": "up"
-        },
-        {
-          "label_en": "Hunt Proven",
-          "label_ar": "مجرب في الصيد",
-          "desc_en": "Documented hunting record, elite bird",
-          "desc_ar": "سجل صيد موثق، طير نخبوي",
-          "price": 178431,
-          "price_en": "QAR 130,000",
-          "price_ar": "١٣٠٬٠٠٠ ريال",
-          "change_pct": 12.4,
-          "trend": "up"
-        }
-      ],
-      "locations": [
-        {
-          "name_en": "Souq Waqif Falcon Market",
-          "name_ar": "سوق الصقور - سوق واقف",
-          "price_en": "QAR 35,000 – 130,000",
-          "price_ar": "٣٥٬٠٠٠ – ١٣٠٬٠٠٠ ريال",
-          "badge": "high"
-        },
-        {
-          "name_en": "Al Wakra Market",
-          "name_ar": "سوق الوكرة",
-          "price_en": "QAR 22,000 – 95,000",
-          "price_ar": "٢٢٬٠٠٠ – ٩٥٬٠٠٠ ريال",
-          "badge": "mid"
-        },
-        {
-          "name_en": "Private Breeders",
-          "name_ar": "مربون خاصون",
-          "price_en": "QAR 20,000 – 85,000",
-          "price_ar": "٢٠٬٠٠٠ – ٨٥٬٠٠٠ ريال",
-          "badge": "low"
-        }
-      ],
-      "vets": [
-        {
-          "name": "Falcon Medical Center",
-          "name_ar": "مركز طب الصقور",
-          "price_en": "Checkup from QAR 150",
-          "price_ar": "فحص من ١٥٠ ريال",
-          "note_en": "Raptor specialists",
-          "note_ar": "متخصص في الصقور"
-        },
-        {
-          "name": "Al Wabra Wildlife",
-          "name_ar": "محمية الوبرة",
-          "price_en": "Checkup from QAR 180",
-          "price_ar": "فحص من ١٨٠ ريال",
-          "note_en": "Government backed",
-          "note_ar": "مرفق حكومي"
-        }
-      ],
-      "pro": {
-        "purchase_en": "QAR 22,000 – 130,000",
-        "purchase_ar": "٢٢٬٠٠٠ – ١٣٠٬٠٠٠ ريال",
-        "inspection_en": "QAR 150 – 300",
-        "inspection_ar": "١٥٠ – ٣٠٠ ريال",
-        "equipment_en": "QAR 600 – 1,500",
-        "equipment_ar": "٦٠٠ – ١٥٠٠ ريال",
-        "checkup_en": "QAR 150",
-        "checkup_ar": "١٥٠ ريال",
-        "food_monthly_en": "QAR 200 – 400/mo",
-        "food_monthly_ar": "٢٠٠ – ٤٠٠ ريال/شهر",
-        "total_en": "QAR 25,000 – 135,000",
-        "total_ar": "٢٥٬٠٠٠ – ١٣٥٬٠٠٠ ريال"
-      },
-      "min": 52276,
-      "max": 83407,
-      "range_en": "QAR 26,000-39,000",
-      "note_en": "موسم التكاثر الربيعي",
-      "range_ar": "ر.ق 26,000-39,000",
-      "note_ar": "موسم التكاثر الربيعي",
-      "last_manual_update": "2026-05-21T20:27:54.624833",
-      "updated_by": "telegram_secretary",
-      "_last_updated_grade_en": "Untrained",
-      "_last_updated_grade_ar": "غير مدرب",
-      "range_low_en": "QAR 26,000",
-      "range_high_en": "QAR 39,000",
-      "trend": "up",
-      "change_pct": 2.5,
-      "range_low_ar": "ر.ق 26,000",
-      "range_high_ar": "ر.ق 39,000"
-    },
-    "saker": {
-      "name_en": "Cherrug (Al-Hurr)",
-      "name_ar": "الحر",
-      "subtitle_ar": "صقر الحر",
-      "subtitle_en": "Cherrug / Al-Hurr Falcon",
-      "insight_en": "Prized for immense physical power and presence; a hallmark of elite collectors seeking heavy-set specimens.",
-      "insight_ar": "يُعرف ببنيته القوية وهيبته العالية؛ وهو الخيار الأول للمقتنين الباحثين عن الصقور الضخمة والمهيبة.",
-      "season_en": "Season winding down from Oct–Mar peak. Captive-bred stock available year-round at stable prices.",
-      "season_ar": "الموسم في تراجع عن ذروته (أكتوبر–مارس). الطيور المربّاة متاحة على مدار العام بأسعار مستقرة.",
-      "grades": [
-        {
-          "label_en": "Untrained",
-          "label_ar": "غير مدرب",
-          "desc_en": "Fresh catch, basic handling only",
-          "desc_ar": "مصطاد حديث، تعامل أساسي فقط",
-          "price": 20580,
-          "price_en": "QAR 15,000",
-          "price_ar": "١٥٬٠٠٠ ريال",
-          "change_pct": -1.5,
-          "trend": "down"
-        },
-        {
-          "label_en": "Basic Training",
-          "label_ar": "تدريب أساسي",
-          "desc_en": "Returns to fist, basic lure response",
-          "desc_ar": "يعود للقفازة، يستجيب للطعم",
-          "price": 38427,
-          "price_en": "QAR 28,000",
-          "price_ar": "٢٨٬٠٠٠ ريال",
-          "change_pct": 0,
-          "trend": "same"
-        },
-        {
-          "label_en": "Fully Trained",
-          "label_ar": "مدرب بالكامل",
-          "desc_en": "Reliable hunter, good temperament",
-          "desc_ar": "صياد موثوق، طبع هادئ",
-          "price": 71370,
-          "price_en": "QAR 52,000",
-          "price_ar": "٥٢٬٠٠٠ ريال",
-          "change_pct": 3.8,
-          "trend": "up"
-        },
-        {
-          "label_en": "Hunt Proven",
-          "label_ar": "مجرب في الصيد",
-          "desc_en": "Multiple successful hunts documented",
-          "desc_ar": "عمليات صيد ناجحة متعددة موثقة",
-          "price": 102942,
-          "price_en": "QAR 75,000",
-          "price_ar": "٧٥٬٠٠٠ ريال",
-          "change_pct": 6.1,
-          "trend": "up"
-        }
-      ],
-      "locations": [
-        {
-          "name_en": "Souq Waqif Falcon Market",
-          "name_ar": "سوق الصقور - سوق واقف",
-          "price_en": "QAR 25,000 – 75,000",
-          "price_ar": "٢٥٬٠٠٠ – ٧٥٬٠٠٠ ريال",
-          "badge": "high"
-        },
-        {
-          "name_en": "Al Wakra Market",
-          "name_ar": "سوق الوكرة",
-          "price_en": "QAR 15,000 – 55,000",
-          "price_ar": "١٥٬٠٠٠ – ٥٥٬٠٠٠ ريال",
-          "badge": "low"
-        },
-        {
-          "name_en": "Online / Private",
-          "name_ar": "أونلاين / خاص",
-          "price_en": "QAR 15,000 – 50,000",
-          "price_ar": "١٥٬٠٠٠ – ٥٠٬٠٠٠ ريال",
-          "badge": "low"
-        }
-      ],
-      "vets": [
-        {
-          "name": "Falcon Medical Center",
-          "name_ar": "مركز طب الصقور",
-          "price_en": "Checkup from QAR 150",
-          "price_ar": "فحص من ١٥٠ ريال",
-          "note_en": "Raptor specialists",
-          "note_ar": "متخصص في الصقور"
-        },
-        {
-          "name": "Al Wabra Wildlife",
-          "name_ar": "محمية الوبرة",
-          "price_en": "Checkup from QAR 180",
-          "price_ar": "فحص من ١٨٠ ريال",
-          "note_en": "Government backed",
-          "note_ar": "مرفق حكومي"
-        }
-      ],
-      "pro": {
-        "purchase_en": "QAR 15,000 – 75,000",
-        "purchase_ar": "١٥٬٠٠٠ – ٧٥٬٠٠٠ ريال",
-        "inspection_en": "QAR 150 – 300",
-        "inspection_ar": "١٥٠ – ٣٠٠ ريال",
-        "equipment_en": "QAR 600 – 1,500",
-        "equipment_ar": "٦٠٠ – ١٥٠٠ ريال",
-        "checkup_en": "QAR 150",
-        "checkup_ar": "١٥٠ ريال",
-        "food_monthly_en": "QAR 200 – 400/mo",
-        "food_monthly_ar": "٢٠٠ – ٤٠٠ ريال/شهر",
-        "total_en": "QAR 18,000 – 80,000",
-        "total_ar": "١٨٬٠٠٠ – ٨٠٬٠٠٠ ريال"
-      },
-      "min": 71675,
-      "max": 110559,
-      "range_en": "QAR 48,000-68,000",
-      "note_en": "سوق مستقر",
-      "range_ar": "ر.ق 48,000-68,000",
-      "note_ar": "سوق مستقر",
-      "range_low_en": "QAR 48,000",
-      "range_high_en": "QAR 68,000",
-      "trend": "same",
-      "change_pct": 0.0,
-      "range_low_ar": "ر.ق 48,000",
-      "range_high_ar": "ر.ق 68,000"
-    },
-    "gyrfalcon": {
-      "name_en": "Gyrfalcon",
-      "name_ar": "طير الجير",
-      "subtitle_en": "The Strongest Falcon",
-      "subtitle_ar": "أقوى أنواع الصقور",
-      "insight_en": "The largest and strongest of all falcons, prized for its immense muscle and speed.",
-      "insight_ar": "أضخم وأقوى أنواع الصقور، يشتهر بقوته الهائلة وبنيته العضلية الضخمة وسرعته الفائقة.",
-      "season_en": "High demand during racing seasons; breeding in polar regions.",
-      "season_ar": "الطلب مرتفع في مواسم السباقات؛ يتكاثر في المناطق القطبية.",
-      "grades": [
-        {
-          "label_en": "Pure Gyr",
-          "label_ar": "جير بيور (نقي)",
-          "desc_en": "100% pure, immense size and power",
-          "desc_ar": "صقر جير نقي 100%، يتميز بحجمه الكبير جداً وقوته الهائلة",
-          "price": 646794,
-          "price_en": "QAR 500,000+",
-          "price_ar": "٥٠٠٬٠٠٠+ ريال",
-          "change_pct": 0,
-          "trend": "same"
-        },
-        {
-          "label_en": "Gyr- Hybrid",
-          "label_ar": "جير حر",
-          "desc_en": "Combines  beauty with Gyr strength",
-          "desc_ar": "يجمع بين قوة وحجم الجير وجمال ووسامة الصقر الحر",
-          "price": 452754,
-          "price_en": "QAR 350,000",
-          "price_ar": "٣٥٠٬٠٠٠ ريال",
-          "change_pct": 0,
-          "trend": "same"
-        },
-        {
-          "label_en": "Gyr- Hybrid",
-          "label_ar": "جير شاهين",
-          "desc_en": "Combines  speed with Gyr power",
-          "desc_ar": "يجمع بين قوة الجير وسرعة وانقضاض صقر الشاهين",
-          "price": 582113,
-          "price_en": "QAR 450,000",
-          "price_ar": "٤٥٠٬٠٠٠ ريال",
-          "change_pct": 0,
-          "trend": "same"
-        }
-      ],
-      "locations": [
-        {
-          "name_en": "Private Auctions",
-          "name_ar": "المزادات الخاصة",
-          "price_en": "QAR 500,000+",
-          "price_ar": "٥٠٠٬٠٠٠+ ريال",
-          "badge": "high"
-        },
-        {
-          "name_en": "Specialized Breeders",
-          "name_ar": "مربون متخصصون",
-          "price_en": "QAR 400,000 – 700,000",
-          "price_ar": "٤٠٠٬٠٠٠ – ٧٠٠٬٠٠٠ ريال",
-          "badge": "mid"
-        }
-      ],
-      "vets": [
-        {
-          "name": "Qatar Falcon Clinic",
-          "name_ar": "مركز طب الصقور",
-          "price_en": "Checkup from QAR 200",
-          "price_ar": "فحص من ٢٠٠ ريال",
-          "note_en": "Specialized in heavy breeds",
-          "note_ar": "متخصص في السلالات الضخمة"
-        }
-      ],
-      "pro": {
-        "purchase_en": "QAR 400,000 – 1,000,000+",
-        "purchase_ar": "٤٠٠٬٠٠٠ – ١٬٠٠٠٬٠٠٠+ ريال",
-        "inspection_en": "QAR 500",
-        "inspection_ar": "٥٠٠ ريال",
-        "equipment_en": "QAR 2,000",
-        "equipment_ar": "٢٠٠٠ ريال",
-        "checkup_en": "QAR 300",
-        "checkup_ar": "٣٠  ٠ ريال",
-        "food_monthly_en": "QAR 500 – 1,000/mo",
-        "food_monthly_ar": "٥٠٠ – ١٠٠٠ ريال/شهر",
-        "total_en": "QAR 410,000 – 1,010,000+",
-        "total_ar": "٤١٠٬٠٠٠ – ١٬٠١٠٬٠٠٠+ ريال"
-      },
-      "min": 452756,
-      "max": 1552320,
-      "range_en": "QAR 400,000–800,000",
-      "note_en": "Elite species",
-      "range_ar": "ر.ق 400,000-800,000",
-      "note_ar": "سلالة نخبوية",
-      "range_low_en": "QAR 350,000",
-      "range_high_en": "QAR 800,000",
-      "trend": "up",
-      "change_pct": 2.5,
-      "range_low_ar": "ر.ق 350,000",
-      "range_high_ar": "ر.ق 800,000"
-    }
-  },
-  "camels": {
-    "majaheem": {
-      "name_en": "Majaheem",
-      "name_ar": "المجاهيم",
-      "subtitle_en": "Racing Camels",
-      "subtitle_ar": "إبل السباق",
-      "insight_en": "A proven racing Majaheem with documented wins can sell for 10x the price of an unproven animal — always verify race records before purchase.",
-      "insight_ar": "المجاهيم ذات سجلات السباق المثبتة تُباع بعشرة أضعاف سعر الحيوان غير المثبت — تحقق دائماً من سجلات السباق قبل الشراء.",
-      "season_en": "موسم السباقات active in Qatar. Pre-season demand pushing prices upward especially for young Majaheem with strong bloodlines.",
-      "season_ar": "موسم السباقات نشط في قطر. الطلب قبل الموسم يدفع الأسعار للأعلى خاصة للمجاهيم الصغيرة.",
-      "grades": [
-        {
-          "label_en": "Unproven Young",
-          "label_ar": "صغير غير مجرب",
-          "desc_en": "2–3 years, no race history",
-          "desc_ar": "٢–٣ سنوات، بدون سجل سباق",
-          "price": 75490,
-          "price_en": "QAR 55,000",
-          "price_ar": "٥٥٬٠٠٠ ريال",
-          "change_pct": 5.8,
-          "trend": "up"
-        },
-        {
-          "label_en": "Racing Trained",
-          "label_ar": "مدرب للسباق",
-          "desc_en": "4–6 years, trained but unplaced",
-          "desc_ar": "٤–٦ سنوات، مدرب لكن غير مصنف",
-          "price": 240213,
-          "price_en": "QAR 175,000",
-          "price_ar": "١٧٥٬٠٠٠ ريال",
-          "change_pct": 0,
-          "trend": "same"
-        },
-        {
-          "label_en": "Race Winner",
-          "label_ar": "فائز بسباق",
-          "desc_en": "Documented race wins, proven speed",
-          "desc_ar": "انتصارات موثقة، سرعة مثبتة",
-          "price": 480436,
-          "price_en": "QAR 350,000",
-          "price_ar": "٣٥٠٬٠٠٠ ريال",
-          "change_pct": -3.1,
-          "trend": "down"
-        },
-        {
-          "label_en": "Champion Bloodline",
-          "label_ar": "نسب بطولي",
-          "desc_en": "Multiple wins, elite pedigree documented",
-          "desc_ar": "انتصارات متعددة، نسب نخبوي موثق",
-          "price": 823612,
-          "price_en": "QAR 600,000",
-          "price_ar": "٦٠٠٬٠٠٠ ريال",
-          "change_pct": 8.7,
-          "trend": "up"
-        }
-      ],
-      "locations": [
-        {
-          "name_en": "Al Shahaniya Camel Market",
-          "name_ar": "سوق الإبل - الشحانية",
-          "price_en": "QAR 60,000 – 600,000",
-          "price_ar": "٦٠٬٠٠٠ – ٦٠٠٬٠٠٠ ريال",
-          "badge": "high"
-        },
-        {
-          "name_en": "Al Khor Market",
-          "name_ar": "سوق الخور",
-          "price_en": "QAR 55,000 – 400,000",
-          "price_ar": "٥٥٬٠٠٠ – ٤٠٠٬٠٠٠ ريال",
-          "badge": "mid"
-        },
-        {
-          "name_en": "Private Farm Sales",
-          "name_ar": "بيع مزارع خاصة",
-          "price_en": "QAR 55,000 – 450,000",
-          "price_ar": "٥٥٬٠٠٠ – ٤٥٠٬٠٠٠ ريال",
-          "badge": "mid"
-        }
-      ],
-      "vets": [
-        {
-          "name": "Qatar Camel Hospital",
-          "name_ar": "مستشفى الإبل قطر",
-          "price_en": "Farm visit from QAR 200",
-          "price_ar": "زيارة مزرعة من ٢٠٠ ريال",
-          "note_en": "Racing specialists",
-          "note_ar": "متخصص في إبل السباق"
-        },
-        {
-          "name": "Al Rayyan Vet Clinic",
-          "name_ar": "عيادة الريان البيطرية",
-          "price_en": "Checkup from QAR 150",
-          "price_ar": "فحص من ١٥٠ ريال",
-          "note_en": "General large animal",
-          "note_ar": "حيوانات كبيرة عامة"
-        }
-      ],
-      "pro": {
-        "purchase_en": "QAR 55,000 – 600,000",
-        "purchase_ar": "٥٥٬٠٠٠ – ٦٠٠٬٠٠٠ ريال",
-        "inspection_en": "QAR 300 – 500",
-        "inspection_ar": "٣٠٠ – ٥٠٠ ريال",
-        "transport_en": "QAR 300 – 800",
-        "transport_ar": "٣٠٠ – ٨٠٠ ريال",
-        "vaccination_en": "QAR 300",
-        "vaccination_ar": "٣٠٠ ريال",
-        "feed_monthly_en": "QAR 800 – 1,500/mo",
-        "feed_monthly_ar": "٨٠٠ – ١٥٠٠ ريال/شهر",
-        "total_en": "QAR 65,000 – 615,000",
-        "total_ar": "٦٥٬٠٠٠ – ٦١٥٬٠٠٠ ريال"
-      },
-      "min": 126172,
-      "max": 163541,
-      "range_en": "QAR 125,000-185,000",
-      "note_en": "موسم السباقات",
-      "range_ar": "ر.ق 125,000-185,000",
-      "note_ar": "موسم السباقات",
-      "range_low_en": "QAR 125,000",
-      "range_high_en": "QAR 185,000",
-      "trend": "up",
-      "change_pct": 4.2,
-      "range_low_ar": "ر.ق 125,000",
-      "range_high_ar": "ر.ق 185,000"
-    },
-    "omaniya": {
-      "name_en": "Omaniya",
-      "name_ar": "العمانية",
-      "subtitle_en": "Omaniya Camel",
-      "subtitle_ar": "الإبل العمانية",
-      "insight_en": "A proven racing  with documented wins can sell for 10x the price of an unproven animal — always verify race records before purchase.",
-      "insight_ar": "المجاهيم ذات سجلات السباق المثبتة تُباع بعشرة أضعاف سعر الحيوان غير المثبت — تحقق دائماً من سجلات السباق قبل الشراء.",
-      "season_en": "موسم السباقات active in Qatar. Pre-season demand pushing prices upward especially for young  with strong bloodlines.",
-      "season_ar": "موسم السباقات نشط في قطر. الطلب قبل الموسم يدفع الأسعار للأعلى خاصة للمجاهيم الصغيرة.",
-      "grades": [
-        {
-          "label_en": "Young Female",
-          "label_ar": "أنثى صغيرة",
-          "desc_en": "Under 2 years, breeding potential",
-          "desc_ar": "أقل من سنتين، إمكانية تربية",
-          "price": 30188,
-          "price_en": "QAR 22,000",
-          "price_ar": "٢٢٬٠٠٠ ريال",
-          "change_pct": 1.2,
-          "trend": "up"
-        },
-        {
-          "label_en": "Adult Male",
-          "label_ar": "ذكر بالغ",
-          "desc_en": "Working age, general purpose",
-          "desc_ar": "سن العمل، استخدام عام",
-          "price": 61761,
-          "price_en": "QAR 45,000",
-          "price_ar": "٤٥٬٠٠٠ ريال",
-          "change_pct": 0,
-          "trend": "same"
-        },
-        {
-          "label_en": "Breeding Female",
-          "label_ar": "أنثى منتجة",
-          "desc_en": "Proven breeder, good offspring",
-          "desc_ar": "مربية مثبتة، نسل جيد",
-          "price": 116664,
-          "price_en": "QAR 85,000",
-          "price_ar": "٨٥٬٠٠٠ ريال",
-          "change_pct": 4.2,
-          "trend": "up"
-        },
-        {
-          "label_en": "Elite Bloodline",
-          "label_ar": "نسب مميز",
-          "desc_en": "Documented pedigree, premium genetics",
-          "desc_ar": "نسب موثق، جينات متميزة",
-          "price": 192161,
-          "price_en": "QAR 140,000",
-          "price_ar": "١٤٠٬٠٠٠ ريال",
-          "change_pct": 2.8,
-          "trend": "up"
-        }
-      ],
-      "locations": [
-        {
-          "name_en": "Al Shahaniya Market",
-          "name_ar": "سوق الشحانية",
-          "price_en": "QAR 25,000 – 140,000",
-          "price_ar": "٢٥٬٠٠٠ – ١٤٠٬٠٠٠ ريال",
-          "badge": "high"
-        },
-        {
-          "name_en": "Al Khor Market",
-          "name_ar": "سوق الخور",
-          "price_en": "QAR 22,000 – 115,000",
-          "price_ar": "٢٢٬٠٠٠ – ١١٥٬٠٠٠ ريال",
-          "badge": "mid"
-        },
-        {
-          "name_en": "Al Wakra Market",
-          "name_ar": "سوق الوكرة",
-          "price_en": "QAR 20,000 – 105,000",
-          "price_ar": "٢٠٬٠٠٠ – ١٠٥٬٠٠٠ ريال",
-          "badge": "low"
-        }
-      ],
-      "vets": [
-        {
-          "name": "Qatar Camel Hospital",
-          "name_ar": "مستشفى الإبل قطر",
-          "price_en": "Farm visit from QAR 200",
-          "price_ar": "زيارة مزرعة من ٢٠٠ ريال",
-          "note_en": "Camel care specialists",
-          "note_ar": "متخصص في رعاية الإبل"
-        },
-        {
-          "name": "Al Rayyan Vet Clinic",
-          "name_ar": "عيادة الريان البيطرية",
-          "price_en": "Checkup from QAR 150",
-          "price_ar": "فحص من ١٥٠ ريال",
-          "note_en": "General large animal",
-          "note_ar": "حيوانات كبيرة عامة"
-        }
-      ],
-      "pro": {
-        "purchase_en": "QAR 22,000 – 140,000",
-        "purchase_ar": "٢٢٬٠٠٠ – ١٤٠٬٠٠٠ ريال",
-        "inspection_en": "QAR 200 – 400",
-        "inspection_ar": "٢٠٠ – ٤٠٠ ريال",
-        "transport_en": "QAR 200 – 500",
-        "transport_ar": "٢٠٠ – ٥٠٠ ريال",
-        "vaccination_en": "QAR 200",
-        "vaccination_ar": "٢٠٠ ريال",
-        "feed_monthly_en": "QAR 600 – 1,000/mo",
-        "feed_monthly_ar": "٦٠٠ – ١٠٠٠ ريال/شهر",
-        "total_en": "QAR 25,000 – 150,000",
-        "total_ar": "٢٥٬٠٠٠ – ١٥٠٬٠٠٠ ريال"
-      },
-      "min": 76744,
-      "max": 93585,
-      "range_en": "QAR 88,000-135,000",
-      "note_en": "سلالات عالية الجودة",
-      "range_ar": "ر.ق 88,000-135,000",
-      "note_ar": "سلالات عالية الجودة",
-      "range_low_en": "QAR 88,000",
-      "range_high_en": "QAR 135,000",
-      "trend": "same",
-      "change_pct": 0.0,
-      "range_low_ar": "ر.ق 88,000",
-      "range_high_ar": "ر.ق 135,000"
-    },
-    "asayel": {
-      "name_en": "Asayel",
-      "name_ar": "الأصايل",
-      "subtitle_en": "Beauty Pageant Camels",
-      "subtitle_ar": "إبل مسابقات الجمال",
-      "insight_en": "A proven racing  with documented wins can sell for 10x the price of an unproven animal — always verify race records before purchase.",
-      "insight_ar": "المجاهيم ذات سجلات السباق المثبتة تُباع بعشرة أضعاف سعر الحيوان غير المثبت — تحقق دائماً من سجلات السباق قبل الشراء.",
-      "season_en": "موسم السباقات active in Qatar. Pre-season demand pushing prices upward especially for young  with strong bloodlines.",
-      "season_ar": "موسم السباقات نشط في قطر. الطلب قبل الموسم يدفع الأسعار للأعلى خاصة للمجاهيم الصغيرة.",
-      "grades": [
-        {
-          "label_en": "Standard",
-          "label_ar": "عادي",
-          "desc_en": "Good conformation, no competition record",
-          "desc_ar": "تكوين جيد، بدون سجل مسابقات",
-          "price": 48038,
-          "price_en": "QAR 35,000",
-          "price_ar": "٣٥٬٠٠٠ ريال",
-          "change_pct": 0,
-          "trend": "same"
-        },
-        {
-          "label_en": "Competition Grade",
-          "label_ar": "درجة مسابقة",
-          "desc_en": "Meets pageant standards, registered",
-          "desc_ar": "يلبي معايير المسابقة، مسجل",
-          "price": 109811,
-          "price_en": "QAR 80,000",
-          "price_ar": "٨٠٬٠٠٠ ريال",
-          "change_pct": 6.5,
-          "trend": "up"
-        },
-        {
-          "label_en": "Placed Winner",
-          "label_ar": "فائز بمركز",
-          "desc_en": "Top 3 placement in regional pageant",
-          "desc_ar": "المراكز الثلاثة الأولى في مسابقة إقليمية",
-          "price": 199040,
-          "price_en": "QAR 145,000",
-          "price_ar": "١٤٥٬٠٠٠ ريال",
-          "change_pct": 9.8,
-          "trend": "up"
-        },
-        {
-          "label_en": "Champion",
-          "label_ar": "بطل",
-          "desc_en": "National or GCC championship winner",
-          "desc_ar": "بطل وطني أو خليجي",
-          "price": 274540,
-          "price_en": "QAR 200,000",
-          "price_ar": "٢٠٠٬٠٠٠ ريال",
-          "change_pct": 15.3,
-          "trend": "up"
-        }
-      ],
-      "locations": [
-        {
-          "name_en": "Al Shahaniya Market",
-          "name_ar": "سوق الشحانية",
-          "price_en": "QAR 40,000 – 200,000",
-          "price_ar": "٤٠٬٠٠٠ – ٢٠٠٬٠٠٠ ريال",
-          "badge": "high"
-        },
-        {
-          "name_en": "Private Breeders",
-          "name_ar": "مربون خاصون",
-          "price_en": "QAR 35,000 – 180,000",
-          "price_ar": "٣٥٬٠٠٠ – ١٨٠٬٠٠٠ ريال",
-          "badge": "mid"
-        },
-        {
-          "name_en": "Al Khor Market",
-          "name_ar": "سوق الخور",
-          "price_en": "QAR 35,000 – 150,000",
-          "price_ar": "٣٥٬٠٠٠ – ١٥٠٬٠٠٠ ريال",
-          "badge": "mid"
-        }
-      ],
-      "vets": [
-        {
-          "name": "Qatar Camel Hospital",
-          "name_ar": "مستشفى الإبل قطر",
-          "price_en": "Farm visit from QAR 200",
-          "price_ar": "زيارة مزرعة من ٢٠٠ ريال",
-          "note_en": "Beauty camel specialists",
-          "note_ar": "متخصص في إبل الجمال"
-        },
-        {
-          "name": "Al Rayyan Vet Clinic",
-          "name_ar": "عيادة الريان البيطرية",
-          "price_en": "Checkup from QAR 150",
-          "price_ar": "فحص من ١٥٠ ريال",
-          "note_en": "General large animal",
-          "note_ar": "حيوانات كبيرة عامة"
-        }
-      ],
-      "pro": {
-        "purchase_en": "QAR 35,000 – 200,000",
-        "purchase_ar": "٣٥٬٠٠٠ – ٢٠٠٬٠٠٠ ريال",
-        "inspection_en": "QAR 200 – 400",
-        "inspection_ar": "٢٠٠ – ٤٠٠ ريال",
-        "transport_en": "QAR 200 – 600",
-        "transport_ar": "٢٠٠ – ٦٠٠ ريال",
-        "vaccination_en": "QAR 200",
-        "vaccination_ar": "٢٠٠ ريال",
-        "feed_monthly_en": "QAR 700 – 1,200/mo",
-        "feed_monthly_ar": "٧٠٠ – ١٢٠٠ ريال/شهر",
-        "total_en": "QAR 38,000 – 210,000",
-        "total_ar": "٣٨٬٠٠٠ – ٢١٠٬٠٠٠ ريال"
-      },
-      "min": 48040,
-      "max": 274548,
-      "range_en": "٣٠٬٠٠٠ - ٢٠٠٬٠٠٠ ريال",
-      "note_en": "Beauty pageant camels seeing growing interest and rising prices",
-      "range_ar": "٣٠٬٠٠٠ - ٢٠٠٬٠٠٠ ريال",
-      "note_ar": "إبل مسابقات الجمال تشهد اهتماماً متزايداً وارتفاعاً في الأسعار"
-    }
-  },
-  "horses": {
-    "arabian": {
-      "name_en": "Arabian",
-      "name_ar": "الخيل العربي",
-      "subtitle_en": "Arabian Horse",
-      "subtitle_ar": "الحصان العربي الأصيل",
-      "insight_en": "Registered purebred Arabians with documented bloodlines from famous sires command the highest premiums. Always verify المنظمة العالمية للخيول العربية registration.",
-      "insight_ar": "الخيل العربي الأصيل المسجل من آباء مشهورة يحقق أعلى الأسعار. تحقق دائماً من تسجيل المنظمة العالمية للخيول العربية.",
-      "season_en": "موسم السباقات Oct–Mar at Qatar Racing Club drives peak demand.",
-      "season_ar": "موسم السباقات أكتوبر–مارس في نادي قطر للفروسية يدفع الطلب للذروة.",
-      "grades": [
-        {
-          "label_en": "Unregistered",
-          "label_ar": "غير مسجل",
-          "desc_en": "Arabian type, no papers",
-          "desc_ar": "نوع عربي، بدون وثائق",
-          "price": 41172,
-          "price_en": "QAR 30,000",
-          "price_ar": "٣٠٬٠٠٠ ريال",
-          "change_pct": 0,
-          "trend": "same"
-        },
-        {
-          "label_en": "Registered Purebred",
-          "label_ar": "أصيل مسجل",
-          "desc_en": "المنظمة العالمية للخيول العربية registered, documented pedigree",
-          "desc_ar": "مسجل في المنظمة العالمية للخيول العربية، نسب موثق",
-          "price": 164720,
-          "price_en": "QAR 120,000",
-          "price_ar": "١٢٠٬٠٠٠ ريال",
-          "change_pct": 3.5,
-          "trend": "up"
-        },
-        {
-          "label_en": "Racing Trained",
-          "label_ar": "مدرب للسباق",
-          "desc_en": "Track-ready, competitive",
-          "desc_ar": "جاهز للحلبة، تنافسي",
-          "price": 384360,
-          "price_en": "QAR 280,000",
-          "price_ar": "٢٨٠٬٠٠٠ ريال",
-          "change_pct": 7.2,
-          "trend": "up"
-        },
-        {
-          "label_en": "Race Winner",
-          "label_ar": "فائز بسباق",
-          "desc_en": "Placed in Qatar Racing Club races",
-          "desc_ar": "مصنف في سباقات نادي قطر للفروسية",
-          "price": 960913,
-          "price_en": "QAR 700,000",
-          "price_ar": "٧٠٠٬٠٠٠ ريال",
-          "change_pct": 12.0,
-          "trend": "up"
-        }
-      ],
-      "locations": [
-        {
-          "name_en": "Qatar Racing & Equestrian Club",
-          "name_ar": "نادي قطر للفروسية",
-          "price_en": "QAR 100,000 – 700,000",
-          "price_ar": "١٠٠٬٠٠٠ – ٧٠٠٬٠٠٠ ريال",
-          "badge": "high"
-        },
-        {
-          "name_en": "Private Stud Farms",
-          "name_ar": "مزارع الخيل الخاصة",
-          "price_en": "QAR 50,000 – 500,000",
-          "price_ar": "٥٠٬٠٠٠ – ٥٠٠٬٠٠٠ ريال",
-          "badge": "mid"
-        },
-        {
-          "name_en": "Private Sales",
-          "name_ar": "مبيعات خاصة",
-          "price_en": "QAR 30,000 – 300,000",
-          "price_ar": "٣٠٬٠٠٠ – ٣٠٠٬٠٠٠ ريال",
-          "badge": "low"
-        }
-      ],
-      "vets": [
-        {
-          "name": "Qatar Racing Club Vet",
-          "name_ar": "بيطري نادي قطر للفروسية",
-          "price_en": "Consultation from QAR 200",
-          "price_ar": "استشارة من ٢٠٠ ريال",
-          "note_en": "Racing specialists",
-          "note_ar": "متخصصون في خيل السباق"
-        },
-        {
-          "name": "Doha Equine Clinic",
-          "name_ar": "عيادة الخيل الدوحة",
-          "price_en": "Checkup from QAR 250",
-          "price_ar": "فحص من ٢٥٠ ريال",
-          "note_en": "Full equine services",
-          "note_ar": "خدمات خيل كاملة"
-        }
-      ],
-      "pro": {
-        "purchase_en": "QAR 30,000 – 700,000",
-        "purchase_ar": "٣٠٬٠٠٠ – ٧٠٠٬٠٠٠ ريال",
-        "inspection_en": "QAR 300 – 600",
-        "inspection_ar": "٣٠٠ – ٦٠٠ ريال",
-        "transport_en": "QAR 500 – 1,500",
-        "transport_ar": "٥٠٠ – ١٥٠٠ ريال",
-        "vaccination_en": "QAR 400",
-        "vaccination_ar": "٤٠٠ ريال",
-        "feed_monthly_en": "QAR 1,500 – 3,000/mo",
-        "feed_monthly_ar": "١٥٠٠ – ٣٠٠٠ ريال/شهر",
-        "total_en": "QAR 35,000 – 720,000",
-        "total_ar": "٣٥٬٠٠٠ – ٧٢٠٬٠٠٠ ريال"
-      },
-      "min": 194383,
-      "max": 269079
-    },
-    "thoroughbred": {
-      "name_en": "Thoroughbred",
-      "name_ar": "الخيل الإنجليزي",
-      "subtitle_en": "Thoroughbred Racing Horse",
-      "subtitle_ar": "خيل السباق الإنجليزي",
-      "insight_en": "Thoroughbred prices in Qatar are heavily influenced by international racing records. Import costs add QAR 15,000–30,000 to the purchase price.",
-      "insight_ar": "أسعار الخيل الإنجليزي في قطر تتأثر بالسجلات الدولية. تكاليف الاستيراد تضيف ١٥٬٠٠٠–٣٠٬٠٠٠ ريال.",
-      "season_en": "موسم السباقات Oct–Mar sees highest demand and prices.",
-      "season_ar": "موسم السباقات أكتوبر–مارس يشهد أعلى طلب وأسعار.",
-      "grades": [
-        {
-          "label_en": "Unraced",
-          "label_ar": "لم يتسابق",
-          "desc_en": "Young, pedigree only, no race record",
-          "desc_ar": "صغير، نسب فقط، بدون سجل سباق",
-          "price": 116673,
-          "price_en": "QAR 85,000",
-          "price_ar": "٨٥٬٠٠٠ ريال",
-          "change_pct": 0,
-          "trend": "same"
-        },
-        {
-          "label_en": "Track Trained",
-          "label_ar": "مدرب على الحلبة",
-          "desc_en": "Race-ready, competitive fitness",
-          "desc_ar": "جاهز للسباق، لياقة تنافسية",
-          "price": 343179,
-          "price_en": "QAR 250,000",
-          "price_ar": "٢٥٠٬٠٠٠ ريال",
-          "change_pct": 4.5,
-          "trend": "up"
-        },
-        {
-          "label_en": "Race Placed",
-          "label_ar": "حصل على مركز",
-          "desc_en": "Top 3 finishes, proven performance",
-          "desc_ar": "مراكز أولى مثبتة",
-          "price": 823646,
-          "price_en": "QAR 600,000",
-          "price_ar": "٦٠٠٬٠٠٠ ريال",
-          "change_pct": 8.9,
-          "trend": "up"
-        },
-        {
-          "label_en": "Elite / Group Winner",
-          "label_ar": "نخبوي / فائز بمجموعة",
-          "desc_en": "Group race winner, international record",
-          "desc_ar": "فائز بسباق مجموعة، سجل دولي",
-          "price": 2470962,
-          "price_en": "QAR 1,800,000+",
-          "price_ar": "١٬٨٠٠٬٠٠٠+ ريال",
-          "change_pct": 14.2,
-          "trend": "up"
-        }
-      ],
-      "locations": [
-        {
-          "name_en": "Qatar Racing Club",
-          "name_ar": "نادي قطر للفروسية",
-          "price_en": "QAR 200,000 – 1,800,000+",
-          "price_ar": "٢٠٠٬٠٠٠ – ١٬٨٠٠٬٠٠٠+ ريال",
-          "badge": "high"
-        },
-        {
-          "name_en": "Import — UK / Ireland",
-          "name_ar": "استيراد من بريطانيا / أيرلندا",
-          "price_en": "QAR 85,000 – 1,000,000",
-          "price_ar": "٨٥٬٠٠٠ – ١٬٠٠٠٬٠٠٠ ريال",
-          "badge": "mid"
-        },
-        {
-          "name_en": "Private Sales",
-          "name_ar": "مبيعات خاصة",
-          "price_en": "QAR 80,000 – 500,000",
-          "price_ar": "٨٠٬٠٠٠ – ٥٠٠٬٠٠٠ ريال",
-          "badge": "low"
-        }
-      ],
-      "vets": [
-        {
-          "name": "Qatar Racing Club Vet",
-          "name_ar": "بيطري نادي قطر للفروسية",
-          "price_en": "Consultation from QAR 200",
-          "price_ar": "استشارة من ٢٠٠ ريال",
-          "note_en": "Racing specialists",
-          "note_ar": "متخصصون في خيل السباق"
-        },
-        {
-          "name": "Doha Equine Clinic",
-          "name_ar": "عيادة الخيل الدوحة",
-          "price_en": "Checkup from QAR 250",
-          "price_ar": "فحص من ٢٥٠ ريال",
-          "note_en": "Full equine services",
-          "note_ar": "خدمات خيل كاملة"
-        }
-      ],
-      "pro": {
-        "purchase_en": "QAR 85,000 – 1,800,000+",
-        "purchase_ar": "٨٥٬٠٠٠ – ١٬٨٠٠٬٠٠٠+ ريال",
-        "inspection_en": "QAR 500 – 1,000",
-        "inspection_ar": "٥٠٠ – ١٠٠٠ ريال",
-        "transport_en": "QAR 15,000 – 30,000",
-        "transport_ar": "١٥٬٠٠٠ – ٣٠٬٠٠٠ ريال",
-        "vaccination_en": "QAR 500",
-        "vaccination_ar": "٥٠٠ ريال",
-        "feed_monthly_en": "QAR 2,000 – 5,000/mo",
-        "feed_monthly_ar": "٢٠٠٠ – ٥٠٠٠ ريال/شهر",
-        "total_en": "QAR 105,000 – 1,860,000+",
-        "total_ar": "١٠٥٬٠٠٠ – ١٬٨٦٠٬٠٠٠+ ريال"
-      },
-      "min": 315801,
-      "max": 482078
-    },
-    "akhal_teke": {
-      "name_en": "Akhal-Teke",
-      "name_ar": "أخال-تيكي",
-      "subtitle_en": "The Golden Horse",
-      "subtitle_ar": "الخيل الذهبي",
-      "insight_en": "The Akhal-Teke's metallic golden coat makes it unique in the world. Increasingly sought by Gulf collectors as a prestige animal.",
-      "insight_ar": "المعطف الذهبي المعدني لخيل أخال-تيكي يجعله فريداً في العالم. يبحث عنه جامعو الخليج بشكل متزايد.",
-      "season_en": "Stable pricing year-round. Rare imports from Turkmenistan command premium.",
-      "season_ar": "أسعار مستقرة طوال العام. الاستيراد النادر من تركمانستان يحقق علاوة سعرية.",
-      "grades": [
-        {
-          "label_en": "Standard",
-          "label_ar": "عادي",
-          "desc_en": "Registered, good conformation",
-          "desc_ar": "مسجل، تكوين جيد",
-          "price": 137266,
-          "price_en": "QAR 100,000",
-          "price_ar": "١٠٠٬٠٠٠ ريال",
-          "change_pct": 0,
-          "trend": "same"
-        },
-        {
-          "label_en": "Golden Coat",
-          "label_ar": "معطف ذهبي",
-          "desc_en": "Exceptional metallic sheen, show quality",
-          "desc_ar": "بريق معدني استثنائي، جودة معرض",
-          "price": 301998,
-          "price_en": "QAR 220,000",
-          "price_ar": "٢٢٠٬٠٠٠ ريال",
-          "change_pct": 5.6,
-          "trend": "up"
-        },
-        {
-          "label_en": "Rare Import",
-          "label_ar": "استيراد نادر",
-          "desc_en": "Direct import from Turkmenistan",
-          "desc_ar": "استيراد مباشر من تركمانستان",
-          "price": 521639,
-          "price_en": "QAR 380,000",
-          "price_ar": "٣٨٠٬٠٠٠ ريال",
-          "change_pct": 8.2,
-          "trend": "up"
-        },
-        {
-          "label_en": "Elite Collector",
-          "label_ar": "نخبة جامعين",
-          "desc_en": "Championship lineage, museum quality",
-          "desc_ar": "نسب بطولي، جودة متحف",
-          "price": 686373,
-          "price_en": "QAR 500,000",
-          "price_ar": "٥٠٠٬٠٠٠ ريال",
-          "change_pct": 11.4,
-          "trend": "up"
-        }
-      ],
-      "locations": [
-        {
-          "name_en": "Import from Turkmenistan",
-          "name_ar": "استيراد من تركمانستان",
-          "price_en": "QAR 200,000 – 500,000",
-          "price_ar": "٢٠٠٬٠٠٠ – ٥٠٠٬٠٠٠ ريال",
-          "badge": "high"
-        },
-        {
-          "name_en": "Private Stud Farms — Qatar",
-          "name_ar": "مزارع الخيل — قطر",
-          "price_en": "QAR 100,000 – 380,000",
-          "price_ar": "١٠٠٬٠٠٠ – ٣٨٠٬٠٠٠ ريال",
-          "badge": "mid"
-        },
-        {
-          "name_en": "Private Sales",
-          "name_ar": "مبيعات خاصة",
-          "price_en": "QAR 100,000 – 300,000",
-          "price_ar": "١٠٠٬٠٠٠ – ٣٠٠٬٠٠٠ ريال",
-          "badge": "mid"
-        }
-      ],
-      "vets": [
-        {
-          "name": "Qatar Racing Club Vet",
-          "name_ar": "بيطري نادي قطر للفروسية",
-          "price_en": "Consultation from QAR 200",
-          "price_ar": "استشارة من ٢٠٠ ريال",
-          "note_en": "Equine specialists",
-          "note_ar": "متخصصون في الخيل"
-        },
-        {
-          "name": "Doha Equine Clinic",
-          "name_ar": "عيادة الخيل الدوحة",
-          "price_en": "Checkup from QAR 250",
-          "price_ar": "فحص من ٢٥٠ ريال",
-          "note_en": "Full equine services",
-          "note_ar": "خدمات خيل كاملة"
-        }
-      ],
-      "pro": {
-        "purchase_en": "QAR 100,000 – 500,000",
-        "purchase_ar": "١٠٠٬٠٠٠ – ٥٠٠٬٠٠٠ ريال",
-        "inspection_en": "QAR 400 – 800",
-        "inspection_ar": "٤٠٠ – ٨٠٠ ريال",
-        "transport_en": "QAR 10,000 – 25,000",
-        "transport_ar": "١٠٬٠٠٠ – ٢٥٬٠٠٠ ريال",
-        "vaccination_en": "QAR 400",
-        "vaccination_ar": "٤٠٠ ريال",
-        "feed_monthly_en": "QAR 1,500 – 3,000/mo",
-        "feed_monthly_ar": "١٥٠٠ – ٣٠٠٠ ريال/شهر",
-        "total_en": "QAR 115,000 – 535,000",
-        "total_ar": "١١٥٬٠٠٠ – ٥٣٥٬٠٠٠ ريال"
-      },
-      "min": 347623,
-      "max": 529934
-    }
+    "language": "en",
+    "pulse": "Qatar falcon market stable — monitoring continues.",
+    "recommendation": "Review trained falcon listings — highest transaction volume.",
+    "outlook": "Stable for 24h. Watch for seasonal demand shifts.",
+    "confidence": 0.7,
+    "key_factors": [
+      "training_grade",
+      "hunt_record",
+      "origin"
+    ]
   }
 }
