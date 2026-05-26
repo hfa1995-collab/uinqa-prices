@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-25T13:24:36.906330",
-  "date": "2026-05-25",
+  "timestamp": "2026-05-26T08:01:14.885854",
+  "date": "2026-05-26",
   "version": "2.0",
   "agent_info": {
     "agent_name": "Learning Agent v2.0",
@@ -55,9 +55,9 @@
         "age_stage": "",
         "origin": "",
         "training_grade": "hunt_proven",
-        "price_base": 65000,
+        "price_base": 50000,
         "modifiers": {},
-        "price_final": 65000,
+        "price_final": 50000,
         "trend": "same",
         "change_pct": 0.0,
         "note": "No LLM response — using baseline price."
