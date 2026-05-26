@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-26T08:02:25.017579",
+  "timestamp": "2026-05-26T11:20:47.066828",
   "date": "2026-05-26",
   "version": "2.0",
   "agent_info": {
@@ -67,12 +67,12 @@
         "age_stage": "",
         "origin": "",
         "training_grade": "untrained",
-        "price_base": 25000,
+        "price_base": 27000,
         "modifiers": {},
-        "price_final": 25000,
-        "trend": "same",
-        "change_pct": 0.0,
-        "note": "No LLM response — using baseline price."
+        "price_final": 27000,
+        "trend": "up",
+        "change_pct": 8.0,
+        "note": "Demand rising ahead of winter hunting season with Sakers among most popular breeds."
       },
       {
         "species_key": "saker",
@@ -96,7 +96,7 @@
         "price_final": 70000,
         "trend": "same",
         "change_pct": 0.0,
-        "note": "No LLM response — using baseline price."
+        "note": "Could not parse LLM response — using DB/baseline price."
       },
       {
         "species_key": "saker",
